@@ -6,4 +6,6 @@ All about Git
 
 | Command       | Example                     | Description                                                                                                                 |
 | ------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| git add *      | `git add *`      | Her seyi eklemeyi gosterir bize asteriks(*)                                                                  |
+| git init | `git init <directory>`| Repomuz icin gerekli olan git dosyalarini ekler.                                                   |
+| git add * | `git add *`      | Her seyi eklemeyi gosterir bize asteriks(*)                                                                  |
+| git commit -m "First commit" | `git commit -m "First commit"`      | Repomuza commit atmamiza yarar bu komut. |
