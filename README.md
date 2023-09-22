@@ -1,5 +1,5 @@
 # git_cheat_sheet
-I shared Git command to use frequently :daisy:
+I shared Git command to use frequently 🟠
 ![Git](./images/git-blog-header.png)
 
 ### Git Command
