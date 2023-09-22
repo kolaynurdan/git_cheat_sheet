@@ -17,4 +17,4 @@ I shared Git command to use frequently :daisy:
 | git stash save <branch_name>  |    `git stash save <branch_name>`    |   Stash icindeki degisiklikleri kaydetmemize yarar.   |
 | git restore .  |    `git restore .`    |   Yapilan degisikliklerigeri almaya yarar.  |
 | git stash apply  |    `git stash apply`    |   Yapilan degisiklikleri kaydetmemize yarar.  |
-
+| git reset --hard  |    `git reset --hard`    |   Yapilan degisiklikleri kaydetmeden onceki haline donmeye yarar. |
