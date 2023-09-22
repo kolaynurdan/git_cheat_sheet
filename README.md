@@ -9,3 +9,4 @@ All about Git
 | git init | `git init <directory>`| Repomuz icin gerekli olan git dosyalarini ekler.                                                   |
 | git add * | `git add *`      | Her seyi eklemeyi gosterir bize asteriks(*)                                                                  |
 | git commit -m "First commit" | `git commit -m "First commit"`      | Repomuza commit atmamiza yarar bu komut. |
+| git status | `git status`      | Repomuzun status komutu ile not staged ya da up to date olup olmadigini gorebiliriz. |
